@@ -112,6 +112,9 @@ main section{
   font-weight: 600;
 }
 /* skills */
+.section-description{
+  margin-bottom:50px ;
+}
 .skills-container{
   display: flex;
   gap: 24px;
